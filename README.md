@@ -9,7 +9,7 @@ No dia **07 de outubro de 2025** nos reunimos às _8h e 30 minutos_ de uma manh�
 ---
 ## A missão
 
-A atividade proposta incluia os seguintes passos ordenados, e colocava em prática o conteúdo aprendido durante o encontro síncrono: 
+A atividade proposta incluía os seguintes passos ordenados, e colocava em prática o conteúdo aprendido durante o encontro síncrono: 
 
 1. Instalar o git no computador.
 2. Configurar o git.
@@ -51,9 +51,9 @@ git branch -M main
 git push -u origin main
 ```
 
-###README.md
+## README.md
 
-Após a conclusão da atividade seguindo as ordens especificadas, este arquivo em questão foi preenchido com texto para treinar a escrita da formatação Markdown. Após as alterações ele foi upado no GitHub!
+Após a conclusão da atividade seguindo as ordens especificadas, este arquivo em questão foi preenchido com texto para treinar a escrita da formatação Markdown. Após as alterações, ele foi upado no GitHub!
 
 ```
 git status
